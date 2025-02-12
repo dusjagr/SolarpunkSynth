@@ -42,6 +42,25 @@ The synthesizer is built around these key features:
 - Organic, variable rhythms through unstable circuit states
 - KiCad PCB design files included
 
+### Technical Differences Between Variants
+
+#### Original SolarpunkSynth
+- Simple and robust circuit design
+- Direct audio output from oscillator circuit
+- Basic component selection for easy assembly
+- Standard PCB layout optimized for functionality
+- Ideal for workshops and educational purposes
+
+#### Digilog Edition Enhancements
+- Added MCP6002 dual op-amp for improved audio output buffering
+- Enhanced signal conditioning with additional filtering capacitors
+- Modified component values for better stability
+- Custom footprint library optimized for artistic PCB layout
+- Artistic PCB design with custom traces and visual elements
+- ENIG finish recommended for superior aesthetic presentation
+
+Both variants maintain the core ultra-low power consumption (<0.5mA) and solar-powered operation capabilities.
+
 ### Schematic
 <img src="./SolarPunkSynth/instructions/SolarSynth_schema.jpg" width="600" alt="SolarSynth Schema">
 
