@@ -1,0 +1,39 @@
+# KiCad backup and temporary files
+*.bak
+*-bak
+*-backups/
+_autosave-*
+*.tmp
+*~
+_saved_*
+
+# KiCad cache and local settings
+fp-info-cache
+*.kicad_prl
+*-cache
+*-cache.lib
+*-rescue.lib
+*rescue-backup/
+
+# Build outputs and gerbers
+*.zip
+*.gbr
+*.drl
+*.pos
+gerbers/
+build/
+output/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
