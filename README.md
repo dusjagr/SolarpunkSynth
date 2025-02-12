@@ -2,8 +2,6 @@
 
 A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
 
-<img src="./photos/SolarpunkSynth_finished.jpg" width="400" alt="Finished SolarpunkSynth">
-
 ## Description
 
 The SolarpunkSynth is an ultra-low power consumption synthesizer that can be powered by:
@@ -22,6 +20,8 @@ Located in [`/SolarPunkSynth`](./SolarPunkSynth)
 - Simple and elegant design
 - Perfect for beginners and workshops
 - Includes complete documentation and assembly instructions
+
+<img src="./photos/SolarpunkSynth_finished.jpg" width="400" alt="Finished SolarpunkSynth">
 
 ### 2. Digilog Edition
 Located in [`/SolarSynth_digilog`](./SolarSynth_digilog)
