@@ -6,14 +6,22 @@ _autosave-*
 *.tmp
 *~
 _saved_*
+\#auto_saved_files\#
 
 # KiCad cache and local settings
-fp-info-cache
+*fp-info-cache*
 *.kicad_prl
 *-cache
 *-cache.lib
 *-rescue.lib
 *rescue-backup/
+*fp-lib-table
+*.net
+*.dsn
+*.ses
+*.xml
+*-bak
+*.lck
 
 # OS generated files
 .DS_Store
