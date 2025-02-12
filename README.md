@@ -40,11 +40,11 @@ For complete assembly instructions:
 
 ## Repository Contents
 
-- `/SolarPunkSynth/` - KiCad project files including schematics and PCB design
-- `/SolarPunkSynth/002_SolarPunkSynth_footprints.pretty/` - Custom footprints for the PCB
-- `/MASK/` - PCB mask files and design assets
-- `/SolarPunkSynth/instructions/` - Assembly guides and schematics
-- `/photos/` - Project photos and workshop documentation
+- [`/SolarPunkSynth`](./SolarPunkSynth) - KiCad project files including schematics and PCB design
+- [`/SolarPunkSynth/002_SolarPunkSynth_footprints.pretty`](./SolarPunkSynth/002_SolarPunkSynth_footprints.pretty) - Custom footprints for the PCB
+- [`/MASK`](./SolarPunkSynth/MASK) - PCB mask files and design assets
+- [`/SolarPunkSynth/instructions`](./SolarPunkSynth/instructions) - Assembly guides and schematics
+- [`/photos`](./photos) - Project photos and workshop documentation
 
 ## Workshop Information
 
