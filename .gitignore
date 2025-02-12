@@ -15,15 +15,6 @@ fp-info-cache
 *-rescue.lib
 *rescue-backup/
 
-# Build outputs and gerbers
-*.zip
-*.gbr
-*.drl
-*.pos
-gerbers/
-build/
-output/
-
 # OS generated files
 .DS_Store
 .DS_Store?
