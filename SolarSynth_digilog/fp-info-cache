@@ -1,4 +1,4 @@
-24174569806732449
+24179787704528504
 007_dusjagr
 3.5mm_jack_SMT_dusjagrLong
 
@@ -13,6 +13,13 @@ ADG704-28N
 0
 28
 28
+007_dusjagr
+AUDIO-JACK-3.5mm_SMD_Hole
+
+
+0
+6
+3
 007_dusjagr
 AUDIO-JACK-3.5mm_SMD_noHole
 
@@ -83,6 +90,20 @@ connector Molex KK-254 vertical
 0
 2
 2
+007_dusjagr
+PJ-313D
+
+
+0
+6
+3
+007_dusjagr
+PJ-313D_new
+
+
+0
+6
+3
 007_dusjagr
 PJ301M-12_dusjagr_3d
 
