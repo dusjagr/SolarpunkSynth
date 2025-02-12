@@ -36,6 +36,12 @@ This is the Digilog edition of the SolarpunkSynth, specially developed for the D
 - 3.5mm audio output
 - Artistic PCB design with custom traces
 
+## PCB Design Process
+The artistic PCB design was created using:
+- [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - An Inkscape extension that transforms SVG artwork into KiCad PCB layouts, enabling complete creative freedom in PCB design with support for any shape and custom drill sizes
+- Custom artwork designed specifically for the Digilog exhibition
+- Careful consideration of both aesthetic and functional aspects
+
 ## Manufacturing Notes
 - Gerber files are provided in the `/gerber/` directory
 - PCB specifications:

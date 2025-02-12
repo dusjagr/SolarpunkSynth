@@ -106,6 +106,10 @@ No prior electronics knowledge is required - just enthusiasm for experimental so
 
 This circuit is a modified version of the StarvationSynth originally developed by Ralf Schreiber and Uwe Schüler. The current version was specifically developed by Marc Dusseiller (dusjagr) to support the exhibition "1,540,000nm DSSC" by Shih Wei-Chieh at FabCafe Tokyo.
 
+### Tools Used
+- [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - An Inkscape extension that converts SVG drawings to KiCad PCB layouts, allowing for artistic and unrestricted PCB designs with support for any kind of shapes, drill pads, and edge cuts
+- KiCad - PCB design software
+
 ## Links
 
 - [Project Wiki](https://www.hackteria.org/wiki/SolarpunkSynth)
