@@ -1,0 +1,126 @@
+(footprint "Piezo_glue"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Single banana socket, footprint - 6mm drill")
+	(tags "banana socket")
+	(property "Reference" "REF**"
+		(at -0.127 -1.905 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a12ad969-8c9f-4776-bcbf-e46af5396d0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PiezoDisc"
+		(at 0 4.445 0)
+		(layer "F.Fab")
+		(uuid "31d9d601-31e6-4419-9fdc-aa5beff4b748")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "007_dusjagr:Piezo_glue"
+		(at 0.508 1.778 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7648eec-33f3-4410-aae1-15d57c8c1c6f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b83fa411-9627-486f-8b2a-5c6cd57ff242")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "PIezodisc"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "661f4855-7bfb-437a-9f4d-0e67d482dc77")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 3.302 -0.127)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "d9f58e28-8067-49dc-8ff9-2d48384395ca")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "e7401409-d396-42f7-8a7b-fcee96d8ab0f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.54 -0.127)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "a3bff541-fdb7-460d-853e-813b2c9c5716")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "098be1a3-2bb6-4f2a-8f6f-3764e687f846")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_1Pin.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 2 2 2)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

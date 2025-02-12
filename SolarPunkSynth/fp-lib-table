@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "002_SolarPunkSynth_footprints")(type "KiCad")(uri "${KIPRJMOD}/002_SolarPunkSynth_footprints.pretty")(options "")(descr ""))
+)
