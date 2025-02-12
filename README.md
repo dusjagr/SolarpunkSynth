@@ -2,7 +2,7 @@
 
 A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
 
-![Finished SolarpunkSynth](./photos/SolarpunkSynth_finished.jpg)
+<img src="./photos/SolarpunkSynth_finished.jpg" width="600" alt="Finished SolarpunkSynth">
 
 ## Description
 
@@ -30,7 +30,7 @@ Located in [`/SolarSynth_digilog`](./SolarSynth_digilog)
 - Features artistic PCB design with custom graphics
 - Same core functionality with a unique visual style
 
-![SolarpunkSynth Digilog Edition](./photos/SolarpunkSynth_digilog_3d.jpg)
+<img src="./photos/SolarpunkSynth_digilog_3d.jpg" width="600" alt="SolarpunkSynth Digilog Edition">
 
 ## Technical Details
 
@@ -43,7 +43,7 @@ The synthesizer is built around these key features:
 - KiCad PCB design files included
 
 ### Schematic
-![SolarSynth Schema](./SolarPunkSynth/instructions/SolarSynth_schema.jpg)
+<img src="./SolarPunkSynth/instructions/SolarSynth_schema.jpg" width="600" alt="SolarSynth Schema">
 
 You can also view the [minimal schematic as PDF](./SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf).
 
@@ -51,7 +51,7 @@ You can also view the [minimal schematic as PDF](./SolarPunkSynth/instructions/D
 
 Detailed soldering instructions are provided to help you build your own SolarpunkSynth:
 
-![Soldering Instructions](./SolarPunkSynth/instructions/SolerInstructions_web.jpg)
+<img src="./SolarPunkSynth/instructions/SolerInstructions_web.jpg" width="600" alt="Soldering Instructions">
 
 For complete assembly instructions:
 - [Detailed Soldering Guide (PDF)](./SolarPunkSynth/instructions/SolderInstruction.pdf)
@@ -81,7 +81,7 @@ This project is designed to be beginner-friendly and has been successfully taugh
 
 No prior electronics knowledge is required - just enthusiasm for experimental sounds and solar-powered creativity!
 
-![Workshop Collage](./photos/Workshop_collage.jpg)
+<img src="./photos/Workshop_collage.jpg" width="600" alt="Workshop Collage">
 
 ## Credits
 
@@ -95,6 +95,8 @@ This circuit is a modified version of the StarvationSynth originally developed b
 - [Bitwäscherei Hackerspace](https://bitwaescherei.ch/)
 
 ## License
+
+This project is open hardware - feel free to modify and share!
 
 This project is licensed under the CERN Open Hardware License Version 2 - Permissive (CERN-OHL-P v2). This means you are free to:
 - Study
