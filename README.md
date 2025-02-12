@@ -2,6 +2,8 @@
 
 A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
 
+![SolarSynth Schema](SolarPunkSynth/instructions/SolarSynth_schema.jpg)
+
 ## Description
 
 The SolarpunkSynth is an ultra-low power consumption synthesizer that can be powered by:
@@ -20,11 +22,25 @@ The synthesizer is built around these key features:
 - Organic, variable rhythms through unstable circuit states
 - KiCad PCB design files included
 
+### Schematic
+![DSSC Synth Minimal Schema](SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf)
+
+## Assembly Instructions
+
+Detailed soldering instructions are provided to help you build your own SolarpunkSynth:
+
+![Soldering Instructions](SolarPunkSynth/instructions/SolerInstructions_web.jpg)
+
+For complete assembly instructions:
+- [Detailed Soldering Guide (PDF)](SolarPunkSynth/instructions/SolderInstruction.pdf)
+- [Soldering Guide (SVG)](SolarPunkSynth/instructions/SolderInstruction.svg)
+
 ## Repository Contents
 
 - `/SolarPunkSynth/` - KiCad project files including schematics and PCB design
 - `/SolarPunkSynth/002_SolarPunkSynth_footprints.pretty/` - Custom footprints for the PCB
 - `/MASK/` - PCB mask files and design assets
+- `/SolarPunkSynth/instructions/` - Assembly guides and schematics
 
 ## Workshop Information
 
