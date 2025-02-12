@@ -2,7 +2,7 @@
 
 A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
 
-![SolarSynth Schema](SolarPunkSynth/instructions/SolarSynth_schema.jpg)
+
 
 ## Description
 
@@ -23,7 +23,10 @@ The synthesizer is built around these key features:
 - KiCad PCB design files included
 
 ### Schematic
-![DSSC Synth Minimal Schema](SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf)
+
+![SolarSynth Schema](SolarPunkSynth/instructions/SolarSynth_schema.jpg)
+
+You can also view the [minimal schematic as PDF](SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf).
 
 ## Assembly Instructions
 
@@ -41,6 +44,7 @@ For complete assembly instructions:
 - `/SolarPunkSynth/002_SolarPunkSynth_footprints.pretty/` - Custom footprints for the PCB
 - `/MASK/` - PCB mask files and design assets
 - `/SolarPunkSynth/instructions/` - Assembly guides and schematics
+- `/photos/` - Project photos and workshop documentation
 
 ## Workshop Information
 
@@ -50,6 +54,8 @@ This project is designed to be beginner-friendly and has been successfully taugh
 - Tokyo, Japan (FabCafe)
 
 No prior electronics knowledge is required - just enthusiasm for experimental sounds and solar-powered creativity!
+
+![Workshop Collage](photos/Workshop_collage.jpg)
 
 ## Credits
 
@@ -65,3 +71,5 @@ This circuit is a modified version of the StarvationSynth originally developed b
 ## License
 
 This project is open hardware - feel free to modify and share!
+
+![Finished SolarpunkSynth](photos/SolarpunkSynth_finished.jpg)
