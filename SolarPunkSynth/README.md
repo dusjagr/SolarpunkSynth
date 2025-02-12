@@ -2,6 +2,8 @@
 
 This is the original version of the SolarpunkSynth - a solar-powered synthesizer designed for workshops and DIY enthusiasts.
 
+<img src="../photos/SolarpunkSynth_finished.jpg" width="400" alt="Original SolarpunkSynth">
+
 ## Features
 - Simple and elegant PCB design
 - Perfect for beginners and workshops
@@ -36,6 +38,12 @@ For detailed assembly instructions, please refer to:
 - Workshop duration: 2-3 hours
 - No prior electronics experience required
 - Tools needed: Soldering iron, solder, wire cutters
+
+## Workshop Experience
+
+<img src="../photos/Workshop_collage.jpg" width="600" alt="SolarpunkSynth Workshop Experience">
+
+The SolarpunkSynth has been successfully used in numerous workshops, helping participants learn about electronics, solar power, and sound synthesis in an engaging hands-on environment.
 
 ## License
 This project is licensed under the CERN Open Hardware License Version 2 - Permissive (CERN-OHL-P v2).
