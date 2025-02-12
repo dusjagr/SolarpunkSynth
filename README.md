@@ -24,19 +24,19 @@ The synthesizer is built around these key features:
 
 ### Schematic
 
-![SolarSynth Schema](SolarPunkSynth/instructions/SolarSynth_schema.jpg)
+![SolarSynth Schema](./SolarPunkSynth/instructions/SolarSynth_schema.jpg)
 
-You can also view the [minimal schematic as PDF](SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf).
+You can also view the [minimal schematic as PDF](./SolarPunkSynth/instructions/DSSC_Synthminimal_schema.pdf).
 
 ## Assembly Instructions
 
 Detailed soldering instructions are provided to help you build your own SolarpunkSynth:
 
-![Soldering Instructions](SolarPunkSynth/instructions/SolerInstructions_web.jpg)
+![Soldering Instructions](./SolarPunkSynth/instructions/SolerInstructions_web.jpg)
 
 For complete assembly instructions:
-- [Detailed Soldering Guide (PDF)](SolarPunkSynth/instructions/SolderInstruction.pdf)
-- [Soldering Guide (SVG)](SolarPunkSynth/instructions/SolderInstruction.svg)
+- [Detailed Soldering Guide (PDF)](./SolarPunkSynth/instructions/SolderInstruction.pdf)
+- [Soldering Guide (SVG)](./SolarPunkSynth/instructions/SolderInstruction.svg)
 
 ## Repository Contents
 
@@ -55,7 +55,7 @@ This project is designed to be beginner-friendly and has been successfully taugh
 
 No prior electronics knowledge is required - just enthusiasm for experimental sounds and solar-powered creativity!
 
-![Workshop Collage](photos/Workshop_collage.jpg)
+![Workshop Collage](./photos/Workshop_collage.jpg)
 
 ## Credits
 
@@ -72,4 +72,4 @@ This circuit is a modified version of the StarvationSynth originally developed b
 
 This project is open hardware - feel free to modify and share!
 
-![Finished SolarpunkSynth](photos/SolarpunkSynth_finished.jpg)
+![Finished SolarpunkSynth](./photos/SolarpunkSynth_finished.jpg)
