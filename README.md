@@ -123,6 +123,13 @@ The acrylic cover enhances the visual appeal while providing protection to the e
 
 ## Workshop Information
 
+A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
+
+<figure>
+  <img src="./photos/Digilog_Workshop_collage.jpg" alt="Workshop Collage">
+  <figcaption><em>Impressions from the workshop at digilog, Taipei, February 2025</em></figcaption>
+</figure>
+
 This project is designed to be beginner-friendly and has been successfully taught in workshops across various locations including:
 - Taipei, Taiwan (Digilog)
 - Chiang Mai, Thailand
@@ -130,7 +137,10 @@ This project is designed to be beginner-friendly and has been successfully taugh
 
 No prior electronics knowledge is required - just enthusiasm for experimental sounds and solar-powered creativity!
 
-![Workshop Collage](./photos/Workshop_collage.jpg)
+<figure>
+  <img src="./photos/Workshop_collage.jpg" alt="Workshop Collage">
+  <figcaption><em>Photos from the SolarpunkSynth Workshop at Parang Cafe & Art Stay, Chiang Mai, Thailand</em></figcaption>
+</figure>
 
 ## Credits
 
