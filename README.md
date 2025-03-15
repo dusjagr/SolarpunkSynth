@@ -2,6 +2,9 @@
 
 A solar-powered synthesizer that creates experimental sounds, rhythmic patterns, and beats using minimal energy from the sun! This project embodies the spirit of solarpunk by combining sustainable energy with creative expression.
 
+# Workshop Registration
+https://sgmkcloud.ocloud.de/index.php/apps/forms/65qHgGpafZMqBaDL
+
 ## Description
 
 The SolarpunkSynth is an ultra-low power consumption synthesizer that can be powered by:
